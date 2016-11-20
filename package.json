@@ -1,0 +1,27 @@
+{
+  "name": "simple-search-parser",
+  "version": "0.0.0",
+  "description": "Simple text search parser",
+  "main": "parser.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js",
+    "prepublish": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerFlatulator/simple-search-parser.git"
+  },
+  "keywords": [
+    "text",
+    "parser",
+    "search"
+  ],
+  "author": "Lucas Azzola <lucas.azzola@iress.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DerFlatulator/simple-search-parser/issues"
+  },
+  "homepage": "https://github.com/DerFlatulator/simple-search-parser#readme"
+}
